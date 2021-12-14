@@ -25,4 +25,4 @@ I interpreted the user's needs first by breaking down the software requirements 
     
 **How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?**
     
-I approached designing software gradually and went through the process of trying to understand some of the main requirements and sections required. It took a while to get adjusted to, as I have never fully designed something in this manner before. However, specific techniques such as utilizing UML diagrams and studying information based on each operating platform will greatly help me in the future when dealing with other applications with other companies.
+I approached designing software gradually and went through the process of trying to understand some of the main requirements and sections. It took a while to get adjusted to, as I have never fully designed something in this manner before. However, specific techniques such as utilizing UML diagrams and studying information based on each operating platform will help me greatly in the future when dealing with other applications with other companies.
